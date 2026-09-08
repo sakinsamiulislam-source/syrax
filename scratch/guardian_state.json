@@ -1,0 +1,12 @@
+{
+  "peak_equity_usd": 500.0,
+  "daily_starting_equity_usd": 468.59708,
+  "current_day_str": "2026-09-08",
+  "realized_pnl_today_usd": 0.0,
+  "high_water_marks": {
+    "TRD-FUT-BTC-INIT": 79209.99,
+    "TRD-SPT-SOL-INIT": 104.01,
+    "TRD-MRG-ETH-INIT": 2493.78
+  },
+  "saved_at": "2026-09-08 00:00:01 UTC"
+}
